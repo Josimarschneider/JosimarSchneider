@@ -1,6 +1,6 @@
 ## Olá, Seja bem-vindo(a).
 
-#### Acesse https://josimarschneider.github.io/ para mais informações. 🙂 
+
 <br> 
 
 <!--
